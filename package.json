@@ -1,0 +1,22 @@
+{
+  "name": "anothermodulenode",
+  "version": "1.0.0",
+  "description": "testing second node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitDobriyal/anotherRepoNode.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitDobriyal/anotherRepoNode/issues"
+  },
+  "homepage": "https://github.com/SumitDobriyal/anotherRepoNode#readme"
+}
